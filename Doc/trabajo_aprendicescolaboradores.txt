@@ -3,10 +3,13 @@ Trabajo practico de Git y Github
 Tareas por Aprendices: 
 
 1) Alexander Palomeque - alexanderpalomeque23@gmail.com: crear el repositorio, agregar el grafico gantt, agregar Trello, y otros.
+Trabajos Realizados y Entregados
+Full... 27/06/2021
 
 
 2) Julian Gonzales - julian3308@gmail.com: agregar el mapa de procesos, agregar diagrama de procesos.
-Trabajos Realizados y entregados...
+Trabajos Realizados y E
+ntregados...
 full... 24/06/2021.
 
 3) Rolando Guerrero - rolando22_@outllok.com: agregar el modelo Canvas, agregar el modelo kanvan.
